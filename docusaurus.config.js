@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Brain',
-  tagline: 'The tagline of my site',
+  tagline: 'My personal brain',
   url: 'https://rauhala.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'mirorauhala', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'brain', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Brain',
@@ -76,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Miro Rauhala`,
     },
   },
   presets: [
