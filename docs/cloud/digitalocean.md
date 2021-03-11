@@ -19,7 +19,7 @@ interestingly, it's advertised[^1] as a way to host your web assests, such as
 images, css, and javascript, but on the other hand, they tell to avoid[^2] small
 files under 20MB in size as it's more performant to host larger files.
 
-The performance gains for small web assets in the kilobytes is propably
+The performance gains for small web assets in the kilobytes is probably 
 negligible.
 
 
